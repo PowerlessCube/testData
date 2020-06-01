@@ -1,8 +1,14 @@
 {
-    "posts": [
+    "goats": [
         {
             "id": 1,
-            "title": "Good day to you"
+            "name": "Sir Pendleton Paper Chewer",
+            "gender": "M"
+        },
+        {
+            "id": 2,
+            "name": "Daisy",
+            "gender": "N/A"
         }
     ],
     "profile": {
